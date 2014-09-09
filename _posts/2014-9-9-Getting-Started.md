@@ -12,5 +12,5 @@ Nowadays, technology is everything. Everyone is using Internet, smartphone, etc.
 ### Current Inspiration 
 - [Google](https://www.google.com) answers most of my questionst on life, academic, culture, social, the World, etc. 
 - [CNN](https://www.cnn.com) gives me updates on the latest news from all over the World, especially in the U.S. 
-- [Columbia](http://events.colum.edu/) shows me list of upcoming, ongoing, past on campus events with specific date, time and location. 
+- [ColumbiaEvents](http://events.colum.edu/) shows me list of upcoming, ongoing, past on campus events with specific date, time and location. 
 
