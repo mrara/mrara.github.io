@@ -4,6 +4,7 @@ title: Browser Options
 ---
 
 ## Browser Options
+
 ###The Internet Explorer 
 Webopedia defined Internet Explorer as a Web browser that made its debut in 1995 as Microsoft's response to Netscape, 
 one of the first graphical-based Web browsers and, at the time, the dominant browser in use with control of over 
